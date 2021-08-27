@@ -29,4 +29,8 @@ public class MainActivity extends AppCompatActivity {
         TextView quantityTextView = findViewById(R.id.quantity_text_view);
         quantityTextView.setText(str);
     }
+
+    private void displayPrice(int number) {
+        TextView
+    }
 }
